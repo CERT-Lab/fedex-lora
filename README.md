@@ -1,6 +1,6 @@
 # FedEx-LoRA: Exact Aggregation for Federated and Efficient Fine-Tuning of Foundation Models
 
-Code for the paper [FedEx-LoRA: Exact Aggregation for Federated and Efficient Fine-Tuning of Foundation Models](https://arxiv.org/abs/2410.09432).
+Code for the paper [FedEx-LoRA: Exact Aggregation for Federated and Efficient Fine-Tuning of Foundation Models](https://arxiv.org/abs/2410.09432). Accepted to ACL Main.
 
 ## Introduction
 
