@@ -43,10 +43,10 @@ Here is [the code](https://github.com/tuetschek/e2e-metrics) the code for evalua
 If you use our work for your research, please cite our paper:
 
 ```
-@misc{singhal2024exactaggregationfederatedefficient,
-      title={Exact Aggregation for Federated and Efficient Fine-Tuning of Foundation Models}, 
+@misc{singhal2025fedexloraexactaggregationfederated,
+      title={FedEx-LoRA: Exact Aggregation for Federated and Efficient Fine-Tuning of Foundation Models}, 
       author={Raghav Singhal and Kaustubh Ponkshe and Praneeth Vepakomma},
-      year={2024},
+      year={2025},
       eprint={2410.09432},
       archivePrefix={arXiv},
       primaryClass={cs.DC},
