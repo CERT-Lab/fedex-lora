@@ -52,4 +52,15 @@ If you use our work for your research, please cite our paper:
       primaryClass={cs.DC},
       url={https://arxiv.org/abs/2410.09432}, 
 }
+
+@misc{singhal2025fedsbsilverbulletextreme,
+      title={Fed-SB: A Silver Bullet for Extreme Communication Efficiency and Performance in (Private) Federated LoRA Fine-Tuning}, 
+      author={Raghav Singhal and Kaustubh Ponkshe and Rohit Vartak and Lav R. Varshney and Praneeth Vepakomma},
+      year={2025},
+      eprint={2502.15436},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2502.15436}, 
+}
+
 ```
