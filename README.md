@@ -43,24 +43,18 @@ Here is [the code](https://github.com/tuetschek/e2e-metrics) the code for evalua
 If you use our work for your research, please cite our paper:
 
 ```
-@misc{singhal2025fedexloraexactaggregationfederated,
-      title={FedEx-LoRA: Exact Aggregation for Federated and Efficient Fine-Tuning of Foundation Models}, 
-      author={Raghav Singhal and Kaustubh Ponkshe and Praneeth Vepakomma},
-      year={2025},
-      eprint={2410.09432},
-      archivePrefix={arXiv},
-      primaryClass={cs.DC},
-      url={https://arxiv.org/abs/2410.09432}, 
+@article{singhal2024fedex,
+  title={Fedex-lora: Exact aggregation for federated and efficient fine-tuning of foundation models},
+  author={Singhal, Raghav and Ponkshe, Kaustubh and Vepakomma, Praneeth},
+  journal={arXiv preprint arXiv:2410.09432},
+  year={2024}
 }
 
-@misc{singhal2025fedsbsilverbulletextreme,
-      title={Fed-SB: A Silver Bullet for Extreme Communication Efficiency and Performance in (Private) Federated LoRA Fine-Tuning}, 
-      author={Raghav Singhal and Kaustubh Ponkshe and Rohit Vartak and Lav R. Varshney and Praneeth Vepakomma},
-      year={2025},
-      eprint={2502.15436},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2502.15436}, 
+@article{singhal2025fed,
+  title={Fed-SB: A silver bullet for extreme communication efficiency and performance in (private) federated lora fine-tuning},
+  author={Singhal, Raghav and Ponkshe, Kaustubh and Vartak, Rohit and Varshney, Lav R and Vepakomma, Praneeth},
+  journal={arXiv preprint arXiv:2502.15436},
+  year={2025}
 }
 
 ```
